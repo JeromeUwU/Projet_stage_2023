@@ -1,0 +1,2 @@
+model_checkpoint_path: "/content/drive/MyDrive/Colab Notebooks/HAN_V2/HAN_V2/acm/acm_allMP_multi_fea_.ckpt"
+all_model_checkpoint_paths: "/content/drive/MyDrive/Colab Notebooks/HAN_V2/HAN_V2/acm/acm_allMP_multi_fea_.ckpt"
